@@ -187,7 +187,7 @@ body {
     /* 120% */
     letter-spacing: 0.02em;
     color: #2E2F42;
-    background-color: #FFFFFF
+    
 }
 
 .team-profs {
@@ -199,6 +199,7 @@ body {
     /* 150% */
     letter-spacing: 0.02em;
     color: #434455;
+    background-color: #FFFFFF
 }
 
 /*-----------------4 SECTION-----OUR PORTFOLIO-----------------*/
