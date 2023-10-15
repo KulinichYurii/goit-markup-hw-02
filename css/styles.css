@@ -80,11 +80,11 @@ body {
     color: #434455;
 }
 
-.navadress-links:hover {
+.navadress-list-item:hover {
     color: #404bbf;
 }
 
-.navadress-links:focus {
+.navadress-list-item:focus {
     color: #404bbf;
 }
 
