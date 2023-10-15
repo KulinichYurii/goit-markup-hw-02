@@ -63,6 +63,11 @@ body {
     text-decoration: none;
 }
 
+.header-list-link:hover,
+.header-list-link:focus {
+    color: #404bbf;
+}
+
 .address-header {
     font-style: normal;
 }
@@ -78,13 +83,6 @@ body {
     color: #434455;
 }
 
-.navadress-links:hover {
-    color: #404bbf;
-}
-
-.navadress-links:focus {
-    color: #404bbf;
-}
 
 
 /*---------------1 SECTION---------EFFECTIVE SOLUTIONS STYLES-------------------*/
