@@ -78,7 +78,10 @@ body {
     color: #434455;
 }
 
-.navadress-links:hover,
+.navadress-links:hover {
+    color: #404bbf;
+}
+
 .navadress-links:focus {
     color: #404bbf;
 }
