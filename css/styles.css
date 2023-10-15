@@ -98,7 +98,7 @@ body {
 }
 
 
-/*---------------EFFECTIVE SOLUTIONS STYLES-------------------*/
+/*---------------1 SECTION---------EFFECTIVE SOLUTIONS STYLES-------------------*/
 
 .section-solutions {
     background-color: #2E2F42;
@@ -139,7 +139,7 @@ body {
     background-color: #404BBF;
 }
 
-/*---------------ADVANTAGES STYLES-----------------*/
+/*---------------2 SECTION---------ADVANTAGES STYLES-----------------*/
 .advantages-title {
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
@@ -160,7 +160,7 @@ body {
     color: #434455;
 }
 
-/*-----------------OUR TEAM-------------------------*/
+/*-----------------3 SECTION-----OUR TEAM-------------------------*/
 
 .team-list {
     background-color: #F4F4FD;
@@ -205,7 +205,7 @@ body {
     color: #434455;
 }
 
-/*-----------------OUR PORTFOLIO-----------------*/
+/*-----------------4 SECTION-----OUR PORTFOLIO-----------------*/
 
 .portfolio-title {
     font-family: 'Roboto', sans-serif;
@@ -216,6 +216,7 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2E2F42;
+    text-align: center;
 }
 
 .portfolio-stuff {
