@@ -63,14 +63,6 @@ body {
     text-decoration: none;
 }
 
-.header-list-link:hover {
-    color: #404bbf;
-}
-
-.header-list-link:focus {
-    color: #404bbf;
-}
-
 
 .address-header {
     font-style: normal;
