@@ -46,10 +46,10 @@ body {
     list-style: none;
 }
 
-.header-list-item:hover {
+.header-list:hover {
     color: #404bbf;
 }
-.header-list-item:focus {
+.header-list:focus {
     color: #404bbf;
 }
 
