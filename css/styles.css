@@ -166,6 +166,10 @@ body {
     background-color: #F4F4FD;
 }
 
+.team-img {
+    background-color: #ffffff;
+}
+
 .team-title {
     font-family: 'Roboto', sans-serif;
     font-size: 36px;
@@ -199,7 +203,6 @@ body {
     /* 150% */
     letter-spacing: 0.02em;
     color: #434455;
-    background-color: #FFFFFF
 }
 
 /*-----------------4 SECTION-----OUR PORTFOLIO-----------------*/
