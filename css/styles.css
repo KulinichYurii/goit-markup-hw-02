@@ -53,15 +53,8 @@ body {
     text-decoration: none;
 }
 
-.header-list-studio:hover {
-    color: #404bbf;
-}
 
-.header-list-studio:focus {
-    color: #404bbf;
-}
-
-.header-list-portfolio, .header-list-contacts {
+.header-list-link {
 font-family: 'Roboto'sans-serif;
 font-size: 16px;
 font-style: normal;
@@ -71,7 +64,14 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 }
 
-.address-header {
+.header-list-link:hover {
+    color: #404bbf;
+}
+
+.header-list-link:focus {
+    color: #404bbf;
+
+    .address-header {
     font-style: normal;
 }
 
@@ -259,4 +259,3 @@ font-family: 'Roboto', sans-serif;
     letter-spacing: 0.02em;
     color: #F4F4FD;
 }
-
