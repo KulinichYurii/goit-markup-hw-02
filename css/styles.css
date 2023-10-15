@@ -153,12 +153,12 @@ color: #2E2F42;
 
 /*-----------------OUR TEAM-------------------------*/
 
-.section-team {
+.team-list {
     background-color: #F4F4FD;
     
 }
 
-.team-img {
+.team-list-item {
     color:#ffffff;
 }
 
