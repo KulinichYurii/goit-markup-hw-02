@@ -158,9 +158,6 @@ color: #2E2F42;
     
 }
 
-.team-list-item {
-    color: #ffffff;
-}
 
 .team-title {
     font-family: 'Roboto', sans-serif;
@@ -183,6 +180,7 @@ color: #2E2F42;
         /* 120% */
         letter-spacing: 0.02em;
         color: #2E2F42;
+        background-color: #FFFFFF /*777*/
        }
 
 .team-profs {
