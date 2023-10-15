@@ -58,10 +58,17 @@ body {
     color: #2E2F42;
 }
 
+.header-list-item:hover {
+    color: #404bbf;
+}
+
 .address-header {
     font-style: normal;
 }
 
+.header-list-item:focus {
+    color: #404bbf;
+}
 
 .navadress-links {
     font-family: 'Roboto', sans-serif;
