@@ -158,6 +158,10 @@ color: #2E2F42;
     
 }
 
+.team-list-item {
+    color: #ffffff;
+}
+
 .team-title {
     font-family: 'Roboto', sans-serif;
         font-size: 36px;
