@@ -153,8 +153,9 @@ color: #2E2F42;
 
 /*-----------------OUR TEAM-------------------------*/
 
-.section-team {
+.team-list {
     background-color: #F4F4FD;
+    
 }
 
 .team-title {
@@ -178,8 +179,7 @@ color: #2E2F42;
         /* 120% */
         letter-spacing: 0.02em;
         color: #2E2F42;
-        background-color: #FFFFFF
-}
+       }
 
 .team-profs {
     font-family: 'Roboto', sans-serif;
