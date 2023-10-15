@@ -69,10 +69,6 @@ body {
     font-style: normal;
 }
 
-.navadress-list:hover, 
-.navadress-list:focus {
-    color: #404bbf;
-}
 
 .navadress-links {
     font-family: 'Roboto', sans-serif;
