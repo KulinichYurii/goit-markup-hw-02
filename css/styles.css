@@ -153,11 +153,14 @@ color: #2E2F42;
 
 /*-----------------OUR TEAM-------------------------*/
 
-.team-list {
+.section-team {
     background-color: #F4F4FD;
     
 }
 
+.team-img {
+    color:#ffffff;
+}
 
 .team-title {
     font-family: 'Roboto', sans-serif;
