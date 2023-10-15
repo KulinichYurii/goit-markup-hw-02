@@ -132,6 +132,14 @@ body {
 
 /*-----------------OUR TEAM-------------------------*/
 
+.section-team {
+    background-color: #F4F4FD;
+}
+
+.section-list {
+    background-color: #FFFFFF;
+}
+
 .team-title {
     font-family: 'Roboto', sans-serif;
     font-size: 36px;
