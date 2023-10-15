@@ -63,7 +63,10 @@ body {
     text-decoration: none;
 }
 
-.navadress-list-item:hover, 
+.navadress-list-item:hover {
+    color: #404bbf;
+}
+
 .navadress-list-item:focus {
     color: #404bbf;
 }
