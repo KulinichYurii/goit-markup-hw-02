@@ -53,7 +53,7 @@ body {
     text-decoration: none;
 }
 
-.header-list-studio:hover
+.header-list-studio:hover,
 .header-list-studio:focus {
     color: #404bbf;
 }
