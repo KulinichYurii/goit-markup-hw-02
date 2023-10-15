@@ -12,7 +12,7 @@ body {
     text-decoration: none;
 }
 
-.button {
+.order-button {
     cursor: pointer;
 }
 
@@ -87,7 +87,7 @@ color: #2E2F42;
     color: #2E2F42;
   }
 
-  .navadress-links:hover
+  .navadress-links:hover,
   .navadress-links:focus {
     color: #404bbf;
   }
@@ -118,10 +118,9 @@ color: #2E2F42;
         /* 150% */
         letter-spacing: 0.04em;
         color: #ffffff;
-        background-color: #4D5AE5;
 }
 
-.order-button:hover
+.order-button:hover,
 .order-button:focus {
     background-color: #404BBF;
 }
