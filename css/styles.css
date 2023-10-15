@@ -71,7 +71,7 @@ body {
     /* 150% */
     letter-spacing: 0.02em;
     text-decoration: none;
-    color: #2e2f42;
+    color: #434455;
   }
 
   .navadress-links:hover
@@ -204,14 +204,14 @@ body {
 
 .footer-logotype-link {
     font-family: 'Raleway', sans-serif;
-        font-size: 18px;
-        font-weight: 700;
-        line-height: 1.16;
-        /* 116.667% */
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        color: #F4F4FD;
-        text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    /* 116.667% */
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    text-decoration: none;
 }
 
 .footer-text {
