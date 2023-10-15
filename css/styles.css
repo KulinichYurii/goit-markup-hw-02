@@ -46,10 +46,10 @@ body {
     list-style: none;
 }
 
-.header-list, .navadress-list:hover {
+.header-list-item, .navadress-list-item:hover {
     color: #404bbf;
 }
-.header-list, .navadress-list:focus {
+.header-list-item, .navadress-list-item:focus {
     color: #404bbf;
 }
 
