@@ -46,13 +46,6 @@ body {
     list-style: none;
 }
 
-.header-list-item:hover {
-    color: #404bbf;
-}
-.header-list-item:focus {
-    color: #404bbf;
-}
-
 .header-list-link {
     font-family: 'Roboto' sans-serif;
     font-size: 16px;
