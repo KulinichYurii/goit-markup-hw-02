@@ -1,0 +1,217 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+/*---------------HEADER STYLES-----------------*/
+
+.span-logotype {
+    font-family: 'Raleway';
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16;
+    /* 116.667% */
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+    text-decoration: none;
+}
+
+.logotype-link {
+    font-family: 'Raleway';
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16;
+    /* 116.667% */
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2E2F42;
+    text-decoration: none;
+}
+
+.header-list, .navadress-list, .advantages-list, .team-list, .portfolio-list {
+    list-style: none;
+}
+
+
+.header-list-link {
+    text-decoration: none;
+}
+
+.header-list-item {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    /* 150% */
+    letter-spacing: 0.03em;
+
+}
+
+.navadress-links {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    /* 150% */
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    color: #434455;
+  
+}
+
+/*---------------EFFECTIVE SOLUTIONS STYLES-----------------*/
+
+.section-solutions{
+    background-color: #2E2F42;
+}
+
+.solutions-title {
+    font-family: 'Roboto';
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 1.07;
+        /* 107.143% */
+        letter-spacing: 0.08em;
+        color: #ffffff;
+}
+
+.order-button {
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        /* 150% */
+        letter-spacing: 0.04em;
+        color: #ffffff;
+        background-color: #4D5AE5;
+        border-radius: 4px;
+        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+
+/*---------------ADVANTAGES STYLES-----------------*/
+.advantages-title {
+    font-family: 'Roboto';
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        /* 120% */
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.advantages-text {
+    font-family: 'Roboto';
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        /* 150% */
+        letter-spacing: 0.02;
+        color: #434455;
+}
+
+/*-----------------OUR TEAM-------------------------*/
+
+.team-title {
+    font-family: 'Roboto';
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.11;
+        /* 111.111% */
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: #2E2F42;
+}
+
+.team-names {
+    font-family: 'Roboto';
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.2;
+        /* 120% */
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.team-profs {
+    font-family: 'Roboto';
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.5;
+        /* 150% */
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+/*-----------------OUR PORTFOLIO-----------------*/
+
+.portfolio-title {
+    font-family: 'Roboto';
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.11;
+        /* 111.111% */
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color:#2E2F42;
+}
+
+.portfolio-stuff {
+    font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        /* 120% */
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+
+.portfolio-text {
+    font-family: 'Roboto';
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        /* 150% */
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+/*-----------------FOOTER-----------------*/
+
+.footer {
+    background-color: #2E2F42;
+}
+
+.footer-logotype-link {
+    font-family: 'Raleway';
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.16;
+        /* 116.667% */
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #F4F4FD;
+        text-decoration: none;
+}
+
+.footer-text {
+font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    /* 150% */
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
+
