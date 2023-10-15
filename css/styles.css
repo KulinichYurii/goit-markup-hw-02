@@ -48,17 +48,23 @@ body {
 }
 
 .header-list-item {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     /* 150% */
-    letter-spacing: 0.03em;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 
 }
 
+.header-list-item:hover
+.header-list-item:hover {
+    color: #404bbf;
+}
+
 .navadress-links {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -77,7 +83,7 @@ body {
 }
 
 .solutions-title {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
         font-size: 56px;
         font-weight: 700;
         line-height: 1.07;
@@ -87,7 +93,7 @@ body {
 }
 
 .order-button {
-        font-family: Roboto;
+        font-family: 'Roboto', sans-serif;
         font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
@@ -99,7 +105,7 @@ body {
 
 /*---------------ADVANTAGES STYLES-----------------*/
 .advantages-title {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
@@ -109,7 +115,7 @@ body {
 }
 
 .advantages-text {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
         font-size: 16px;
         font-weight: 400;
         line-height: 1.5;
@@ -121,7 +127,7 @@ body {
 /*-----------------OUR TEAM-------------------------*/
 
 .team-title {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
         font-size: 36px;
         font-weight: 700;
         line-height: 1.11;
@@ -132,7 +138,7 @@ body {
 }
 
 .team-names {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
         font-size: 20px;
         font-style: normal;
         font-weight: 500;
@@ -143,7 +149,7 @@ body {
 }
 
 .team-profs {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
@@ -156,7 +162,7 @@ body {
 /*-----------------OUR PORTFOLIO-----------------*/
 
 .portfolio-title {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
         font-size: 36px;
         font-weight: 700;
         line-height: 1.11;
@@ -167,7 +173,7 @@ body {
 }
 
 .portfolio-stuff {
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
@@ -177,7 +183,7 @@ body {
 }
 
 .portfolio-text {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
         font-size: 16px;
         font-weight: 400;
         line-height: 1.5;
@@ -193,7 +199,7 @@ body {
 }
 
 .footer-logotype-link {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
         font-size: 18px;
         font-weight: 700;
         line-height: 1.16;
@@ -205,7 +211,7 @@ body {
 }
 
 .footer-text {
-font-family: 'Roboto';
+font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
