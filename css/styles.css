@@ -63,6 +63,12 @@ body {
     text-decoration: none;
 }
 
+.navadress-list-item:hover, 
+.navadress-list-item:focus {
+    color: #404bbf;
+}
+
+
 
 .address-header {
     font-style: normal;
