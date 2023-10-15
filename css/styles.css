@@ -12,6 +12,10 @@ body {
     text-decoration: none;
 }
 
+.button {
+    cursor: pointer;
+}
+
 /*---------------HEADER STYLES-----------------*/
 
 .span-logotype {
@@ -101,8 +105,9 @@ color: #2E2F42;
         font-weight: 700;
         line-height: 1.07;
         /* 107.143% */
-        letter-spacing: 0.08em;
+        letter-spacing: 0.02em;
         color: #ffffff;
+        text-align: center;
 }
 
 .order-button {
@@ -114,6 +119,11 @@ color: #2E2F42;
         letter-spacing: 0.04em;
         color: #ffffff;
         background-color: #4D5AE5;
+}
+
+.order-button:hover
+.order-button:focus {
+    background-color: #404BBF;
 }
 
 /*---------------ADVANTAGES STYLES-----------------*/
