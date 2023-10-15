@@ -80,6 +80,13 @@ body {
     color: #434455;
 }
 
+.navadress-links:hover {
+    color: #404bbf;
+}
+
+.navadress-links:focus {
+    color: #404bbf;
+}
 
 
 /*---------------1 SECTION---------EFFECTIVE SOLUTIONS STYLES-------------------*/
