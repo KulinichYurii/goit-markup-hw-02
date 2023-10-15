@@ -38,41 +38,32 @@ body {
     text-decoration: none;
 }
 
-.header-list, .navadress-list, .advantages-list, .team-list, .portfolio-list {
+.header-list,
+.navadress-list,
+.advantages-list,
+.team-list,
+.portfolio-list {
     list-style: none;
 }
 
-.header-list-studio {
+
+.header-list-link {
+    text-decoration: none;
+}
+
+.header-list-item {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     /* 150% */
     letter-spacing: 0.02em;
-    color: #434455;
-    text-decoration: none;
+    color: #2E2F42;
+
 }
 
-.header-list-link:hover {
+.header-list-item:hover .header-list-item:hover {
     color: #404bbf;
-}
-
-.header-list-link:focus {
-    color: #404bbf;
-}
-
-.header-list-link {
-font-family: 'Roboto'sans-serif;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 1.5; /* 150% */
-letter-spacing: 0.02em;
-color: #2E2F42;
-}
-
-.address-header {
-    font-style: normal;
 }
 
 .navadress-links {
@@ -84,152 +75,127 @@ color: #2E2F42;
     letter-spacing: 0.02em;
     text-decoration: none;
     color: #434455;
-  }
+}
 
-  .navadress-links:hover,
-  .navadress-links:focus {
+.navadress-links:hover .navadress-links:focus {
     color: #404bbf;
-  }
+}
 
 
 /*---------------EFFECTIVE SOLUTIONS STYLES-------------------*/
 
-.section-solutions{
+.section-solutions {
     background-color: #2E2F42;
 }
 
 .solutions-title {
     font-family: 'Roboto', sans-serif;
-        font-size: 56px;
-        font-weight: 700;
-        line-height: 1.07;
-        /* 107.143% */
-        letter-spacing: 0.02em;
-        color: #ffffff;
-        text-align: center;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    /* 107.143% */
+    letter-spacing: 0.08em;
+    color: #ffffff;
 }
 
 .order-button {
-        font-family: 'Roboto', sans-serif;
-        font-size: 16px;
-        font-weight: 500;
-        line-height: 1.5;
-        /* 150% */
-        letter-spacing: 0.04em;
-        color: #ffffff;
-        background-color: #4D5AE5;
-        
-}
-
-.order-button {
-    cursor: pointer;
-}
-
-.order-button:hover {
-    background-color: #404BBF;
-}
-
-.order-button:focus {
-    background-color: #404BBF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    /* 150% */
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    background-color: #4D5AE5;
 }
 
 /*---------------ADVANTAGES STYLES-----------------*/
 .advantages-title {
     font-family: 'Roboto', sans-serif;
-        font-size: 20px;
-        font-weight: 500;
-        line-height: 1.2;
-        /* 120% */
-        letter-spacing: 0.02em;
-        color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    /* 120% */
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
 .advantages-text {
     font-family: 'Roboto', sans-serif;
-        font-size: 16px;
-        font-weight: 400;
-        line-height: 1.5;
-        /* 150% */
-        letter-spacing: 0.02em;
-        color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    /* 150% */
+    letter-spacing: 0.02;
+    color: #434455;
 }
 
 /*-----------------OUR TEAM-------------------------*/
 
-.team-list {
-    background-color: #F4F4FD;
-    
-}
-
-.team-list-item {
-    color:#ffffff;
-}
-
 .team-title {
     font-family: 'Roboto', sans-serif;
-        font-size: 36px;
-        font-weight: 700;
-        line-height: 1.11;
-        /* 111.111% */
-        letter-spacing: 0.02em;
-        text-transform: capitalize;
-        color: #2E2F42;
-        text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    /* 111.111% */
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
 }
 
 .team-names {
     font-family: 'Roboto', sans-serif;
-        font-size: 20px;
-        font-style: normal;
-        font-weight: 500;
-        line-height: 1.2;
-        /* 120% */
-        letter-spacing: 0.02em;
-        color: #2E2F42;
-       }
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    /* 120% */
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
 
 .team-profs {
     font-family: 'Roboto', sans-serif;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 1.5;
-        /* 150% */
-        letter-spacing: 0.02em;
-        color: #434455;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    /* 150% */
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 /*-----------------OUR PORTFOLIO-----------------*/
 
 .portfolio-title {
     font-family: 'Roboto', sans-serif;
-        font-size: 36px;
-        font-weight: 700;
-        line-height: 1.11;
-        /* 111.111% */
-        letter-spacing: 0.02em;
-        text-transform: capitalize;
-        color:#2E2F42;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    /* 111.111% */
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
 }
 
 .portfolio-stuff {
     font-family: 'Roboto', sans-serif;
-        font-size: 20px;
-        font-weight: 500;
-        line-height: 1.2;
-        /* 120% */
-        letter-spacing: 0.02em;
-        color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    /* 120% */
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
 .portfolio-text {
     font-family: 'Roboto', sans-serif;
-        font-size: 16px;
-        font-weight: 400;
-        line-height: 1.5;
-        /* 150% */
-        letter-spacing: 0.02em;
-        color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    /* 150% */
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 /*-----------------FOOTER-----------------*/
@@ -251,7 +217,7 @@ color: #2E2F42;
 }
 
 .footer-text {
-font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
@@ -259,4 +225,3 @@ font-family: 'Roboto', sans-serif;
     letter-spacing: 0.02em;
     color: #F4F4FD;
 }
-
