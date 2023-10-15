@@ -166,10 +166,6 @@ body {
     background-color: #F4F4FD;
 }
 
-.team-list-item {
-    background-color: #FFFFFF
-}
-
 .team-title {
     font-family: 'Roboto', sans-serif;
     font-size: 36px;
@@ -191,6 +187,7 @@ body {
     /* 120% */
     letter-spacing: 0.02em;
     color: #2E2F42;
+    background-color: #FFFFFF
 }
 
 .team-profs {
