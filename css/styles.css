@@ -12,10 +12,6 @@ body {
     text-decoration: none;
 }
 
-.order-button {
-    cursor: pointer;
-}
-
 /*---------------HEADER STYLES-----------------*/
 
 .span-logotype {
@@ -118,9 +114,17 @@ color: #2E2F42;
         /* 150% */
         letter-spacing: 0.04em;
         color: #ffffff;
+        
 }
 
-.order-button:hover,
+.order-button {
+    cursor: pointer;
+}
+
+.order-button:hover {
+    background-color: #404BBF;
+}
+
 .order-button:focus {
     background-color: #404BBF;
 }
