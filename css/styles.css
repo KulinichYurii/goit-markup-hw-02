@@ -23,7 +23,6 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2E2F42;
-    text-decoration: none;
 }
 
 .logotype-link {
@@ -35,7 +34,6 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    text-decoration: none;
 }
 
 .header-list-link {
@@ -66,7 +64,6 @@ body {
     line-height: 1.5;
     /* 150% */
     letter-spacing: 0.02em;
-    text-decoration: none;
     color: #434455;
 }
 
@@ -228,7 +225,6 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #F4F4FD;
-    text-decoration: none;
 }
 
 .footer-text {
