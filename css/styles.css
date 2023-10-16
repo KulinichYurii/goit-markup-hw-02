@@ -38,15 +38,6 @@ body {
     text-decoration: none;
 }
 
-.header-list,
-.navadress-list,
-.advantages-list,
-.team-list,
-.portfolio-list {
-list-style: none;
-}
-
-
 .header-list-link {
     font-family: 'Roboto' sans-serif;
     font-size: 16px;
